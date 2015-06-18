@@ -995,5 +995,3 @@ public class KolakFinal
 
 	
 }
-
-#GREScore
